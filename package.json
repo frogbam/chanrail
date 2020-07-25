@@ -1,0 +1,51 @@
+{
+  "name": "chanrail",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@3846masa/axios-cookiejar-support": "^0.5.1",
+    "@react-native-community/masked-view": "^0.1.7",
+    "@voximplant/react-native-foreground-service": "^2.0.0",
+    "axios": "^0.19.2",
+    "events": "^3.0.0",
+    "getstream": "^4.3.0",
+    "jetifier": "^1.6.4",
+    "korailjs": "^0.1.23",
+    "lottie-react-native": "^3.2.1",
+    "moment": "^2.24.0",
+    "query-string": "^6.8.3",
+    "querystring": "^0.2.0",
+    "react": "16.8.6",
+    "react-native": "0.60.0",
+    "react-native-background-timer": "^2.1.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "^1.5.0",
+    "react-native-loading-spinner-overlay": "^1.0.1",
+    "react-native-modal": "^11.5.3",
+    "react-native-push-notification": "^3.1.9",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.2.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.2.2",
+    "react-navigation-stack": "^2.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/runtime": "^7.7.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.6.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.57.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
