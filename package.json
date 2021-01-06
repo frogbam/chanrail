@@ -11,7 +11,7 @@
     "@3846masa/axios-cookiejar-support": "^0.5.1",
     "@react-native-community/masked-view": "^0.1.7",
     "@voximplant/react-native-foreground-service": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "events": "^3.0.0",
     "getstream": "^4.3.0",
     "jetifier": "^1.6.4",
