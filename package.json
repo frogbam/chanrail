@@ -17,7 +17,7 @@
     "jetifier": "^1.6.4",
     "korailjs": "^0.1.23",
     "lottie-react-native": "^3.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "query-string": "^6.8.3",
     "querystring": "^0.2.0",
     "react": "16.8.6",
